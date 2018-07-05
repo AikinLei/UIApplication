@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        jarsigner -verbose -keystore C:\sign\jincihaoche.jks -signedjar C:\sign\sign.apk C:\sign\tap_unsign.apk haochejinci
+        int a=555;
     }
 }
