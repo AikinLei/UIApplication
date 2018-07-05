@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         int a = 555;
         int dev = 666;
         int mainDev = 888;
+
+        int dev2=777;
     }
 }
