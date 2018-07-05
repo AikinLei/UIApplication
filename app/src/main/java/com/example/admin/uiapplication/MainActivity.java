@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         int a = 555;
         int dev = 666;
         int mainDev = 888;
+
+
+        //现在master分支搞事情了 也commit一下
     }
 }
