@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         int dev = 666;
         int mainDev = 888;
 
-        int dev2=777;
+        //删了了两三行代码
     }
 }
